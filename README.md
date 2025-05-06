@@ -1,0 +1,1 @@
+# radxa-watchdog-setup
